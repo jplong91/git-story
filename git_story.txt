@@ -1,1 +1,3 @@
-This is a short story about development using git. Git may seem strange, but it certainly has its uses.
+This is a short story about development using git. Git may seem strange, but it certainly has its uses. 
+
+Adding more to this bad story, I still think git is weird but the commands that I entered into the terminal worked fine.
