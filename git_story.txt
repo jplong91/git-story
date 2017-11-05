@@ -1,0 +1,1 @@
+This is a short story about development using git. Git may seem strange, but it certainly has its uses.
